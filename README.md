@@ -4,8 +4,8 @@
 
 
 **Team Members:** 
-* **Alikhan Kassymbekov** (ID: IT-2307)
-* **Mertay Merekeyev** (ID: IT-2307)
+* **Alikhan Kassymbekov** (IT-2307)
+* **Mertay Merekeyev** (IT-2307)
 
 
 ## Project Overview
