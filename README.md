@@ -6,11 +6,6 @@
 **Team Members:** * **Alikhan Kassymbekov** (ID: IT-2307)
 * **Mertay Merekeyev** (ID: IT-2307)
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20NumPy-orange)
-
----
 
 ## Project Overview
 
