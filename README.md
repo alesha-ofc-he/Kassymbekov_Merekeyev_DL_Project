@@ -3,7 +3,8 @@
 # Deep Learning Course Project: Drone Vision System
 
 
-**Team Members:** * **Alikhan Kassymbekov** (ID: IT-2307)
+**Team Members:** 
+* **Alikhan Kassymbekov** (ID: IT-2307)
 * **Mertay Merekeyev** (ID: IT-2307)
 
 
