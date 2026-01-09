@@ -16,7 +16,7 @@ The project is organized into four progressive sections:
 1.  **Section 1: Foundations:** Building a Multi-Layer Perceptron (MLP) from scratch using only `numpy`.
 2.  **Section 2: Optimization:** Implementing advanced optimizers (Adam, RMSprop) and performing mathematical gradient checking.
 3.  **Section 3: CNN Implementation:** A custom Convolutional Neural Network built purely in `numpy` (no deep learning frameworks) for low-level understanding.
-4.  **Section 4: Modern Architectures:** Transfer Learning using **ResNet18** (PyTorch) on drone imagery (VisDrone/CIFAR-10) with custom data augmentation.
+4.  **Section 4: Modern Architectures:** Transfer Learning using **ResNet18** (PyTorch) on drone imagery (VisDrone) with custom data augmentation.
 
 ---
 
